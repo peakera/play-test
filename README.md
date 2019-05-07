@@ -1,4 +1,4 @@
-# play-test
+# Post-apocalyptic Landscapes
 
 Read the [syllabus](https://github.com/peakera/play-test/blob/master/syllabus.md).
 
