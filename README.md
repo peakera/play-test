@@ -1,6 +1,6 @@
 # play-test
 
-Read the [syllabus(https://github.com/peakera/play-test/blob/master/syllabus.md).
+Read the [syllabus](https://github.com/peakera/play-test/blob/master/syllabus.md).
 
 Do the [work](https://github.com/peakera/play-test/blob/master/readings.md).
 
